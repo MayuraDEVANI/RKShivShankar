@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ShivShankar</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="app_id">ca-app-pub-2184617561999922~8228056893</string>
+    <string name="banner_ad_unit_id">ca-app-pub-2184617561999922/3658256491</string>
+    <string name="no_internet">No internet connection</string>
+</resources>

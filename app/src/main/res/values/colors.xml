@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">@color/primary_transparent</color>
+
+    <color name="colorPrimary">#009966</color>
+    <color name="colorPrimaryDark">#017c53</color>
+    <color name="primary_transparent">#e3009966</color>
+    <color name="primary_transparent_press">#8e009966</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">@android:color/black</color>
+    <color name="red">#BA1B12</color>
+    <color name="yellow">#f9a52a</color>
+    <color name="gray">#404040</color>
+</resources>
